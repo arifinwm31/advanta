@@ -19,7 +19,7 @@ latest stable release please visit the `CodeIgniter Downloads
 <https://codeigniter.com/download>`_ page.
 
 **************************
-Changelog and New Features
+Changelog and New Features Test
 **************************
 
 You can find a list of all changes for each release in the `user
